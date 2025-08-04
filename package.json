@@ -1,0 +1,19 @@
+{
+  "name": "react-native-loading-dots",
+  "version": "1.0.0",
+  "description": "Simple animated loading dots for React Native.",
+  "main": "src/LoadingDots.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlejoAcle/react-native-loading-dots.git"
+  },
+  "keywords": [
+    "react-native",
+    "loading",
+    "dots",
+    "animation",
+    "component"
+  ],
+  "author": "Mr.A",
+  "license": "MIT"
+}
